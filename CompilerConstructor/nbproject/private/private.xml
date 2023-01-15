@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ali/Downloads/CompilerConstructor/src/com/CCProject/BinOP.java</file>
+            <file>file:/C:/Users/Ali/Downloads/CompilerConstructor/src/com/CCProject/Num.java</file>
+            <file>file:/C:/Users/Ali/Downloads/CompilerConstructor/src/com/CCProject/Token.java</file>
+            <file>file:/C:/Users/Ali/Downloads/CompilerConstructor/src/com/CCProject/AST.java</file>
+            <file>file:/C:/Users/Ali/Downloads/CompilerConstructor/src/com/CCProject/Interpreter.java</file>
+            <file>file:/C:/Users/Ali/Downloads/CompilerConstructor/src/com/CCProject/Main.java</file>
+            <file>file:/C:/Users/Ali/Downloads/CompilerConstructor/src/com/CCProject/NodeVisitor.java</file>
+            <file>file:/C:/Users/Ali/Downloads/CompilerConstructor/src/com/CCProject/Lexer.java</file>
+            <file>file:/C:/Users/Ali/Downloads/CompilerConstructor/src/com/CCProject/Parser.java</file>
+        </group>
+    </open-files>
+</project-private>
